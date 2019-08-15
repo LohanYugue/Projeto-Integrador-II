@@ -110,4 +110,5 @@ public class NewJFrame extends javax.swing.JFrame {
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel textoDoBixcoito;
     // End of variables declaration//GEN-END:variables
+    asda
 }
